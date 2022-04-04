@@ -3,7 +3,7 @@ Authors:
 Ferran Martinez
 Rubén González 
 
-url:  https://ecv-etic.upf.edu/students/2021/myownserver/p2/
+url:  https://ferran.work/myprojects/OnlineOffice/
 
 In this web application we want to simulate a virtual co-working space, where users can move around the different rooms and chat with other users.
 
